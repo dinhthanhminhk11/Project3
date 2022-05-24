@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/food"
+        android:icon="@drawable/ic_baseline_no_food_24"
+        android:title="Food" />
+    <item
+        android:id="@+id/wallpaper"
+        android:icon="@drawable/ic_baseline_wallpaper_24"
+        android:title="Wallpaper" />
+
+</menu>

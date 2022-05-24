@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/drawable/background_bottomsheet.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/drawable/background_recylerview.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/drawable/bg_ui.xml" value="0.1615" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/drawable/ic_chef_svgrepo_com.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/activity_list_recipes.xml" value="0.264" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/activity_main2.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/activity_recipes.xml" value="0.264" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/activity_splash_screen.xml" value="0.23229166666666667" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/activity_wallpaper.xml" value="0.22282608695652173" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/bottomsheet.xml" value="0.176" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/fragment_content.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/fragment_food.xml" value="0.22826086956521738" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/fragment_ingredients.xml" value="0.21822916666666667" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/fragment_method.xml" value="0.22282608695652173" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/fragment_setting.xml" value="0.22282608695652173" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/fragment_wallpaper.xml" value="0.22826086956521738" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_imagewallpaper.xml" value="0.22282608695652173" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_ingredient.xml" value="0.264" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_method.xml" value="0.22282608695652173" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_recipes.xml" value="0.4" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_typerecipes.xml" value="0.2" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_wallpaper.xml" value="0.22282608695652173" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/item_wallpaper_bottomsheet.xml" value="0.11246200607902736" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/testgirdview.xml" value="0.215625" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/layout/tool_bar5.xml" value="0.23125" />
+        <entry key="..\:/ProjectAndroidJava/FoodAndWallpaper/app/src/main/res/menu/main_menu.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
